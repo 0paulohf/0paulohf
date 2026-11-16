@@ -48,7 +48,7 @@ Este espaço funciona como o meu laboratório: aqui documento meus estudos, proj
 <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0paulohf&theme=tokyonight" />
 
 </div>
----
+
 ## 🐍 Minha atividade no GitHub
 
 <div align="center">
