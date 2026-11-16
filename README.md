@@ -71,7 +71,7 @@ Este espaço funciona como o meu laboratório: aqui documento meus estudos, proj
 
 <div align="center">
 
-### 🌎 Obrigado pela visita!
+###  Obrigado pela visita! 😊
 
 **Cada linha de código é um passo a mais na jornada.**
 
