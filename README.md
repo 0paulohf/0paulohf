@@ -49,12 +49,11 @@ Este espaço funciona como o meu laboratório: aqui documento meus estudos, proj
 
 </div>
 ---
-
 ## 🐍 Minha atividade no GitHub
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/0paulohf/0paulohf/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0paulohf&theme=tokyo-night&hide_border=true&area=true" />
 
 </div>
 
