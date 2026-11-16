@@ -1,13 +1,10 @@
-# 👋 Hello, World! 🌍 
-
-Seja bem-vindo ao meu GitHub!
-
+# 👋 Hello, World! 🌍
 
 <div align="center">
 
 # 🚀 Paulo Henrique
 
-<img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="100%" alt="GIF animado">
+<img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="100%" alt="Banner animado">
 
 **Estudante de Engenharia de Computação | Desenvolvedor em formação**
 
@@ -19,14 +16,14 @@ Seja bem-vindo ao meu GitHub!
 
 ## 💻 Sobre mim
 
-Olá! Sou estudante da área de tecnologia e estou construindo minha jornada no mundo da programação.
+Olá! Seja bem-vindo ao meu GitHub. Sou graduando em **Engenharia de Computação** e apaixonado por transformar ideias em código.
 
-Este espaço é dedicado aos meus estudos, projetos acadêmicos, experiências e evolução como desenvolvedor.
+Este espaço funciona como o meu laboratório: aqui documento meus estudos, projetos acadêmicos e aplicações práticas enquanto construo uma base sólida em desenvolvimento de software.
 
-- 🎓 Estudante de tecnologia.
-- 💡 Interessado em programação e desenvolvimento de sistemas.
-- 📚 Sempre aprendendo e buscando novos conhecimentos.
-- 🚀 Utilizando o GitHub para compartilhar meus projetos e acompanhar minha evolução.
+- 🎓 Cursando **Engenharia de Computação**.
+- 💡 Foco atual em **desenvolvimento web** (front-end e back-end) e **banco de dados**.
+- 🛠️ Aprendendo na prática através da construção de sistemas e resolução de problemas reais.
+- 📈 Em constante evolução, buscando escrever códigos cada vez mais limpos e eficientes.
 
 ---
 
@@ -62,22 +59,22 @@ Este espaço é dedicado aos meus estudos, projetos acadêmicos, experiências e
 
 ---
 
-## 🎯 Meus objetivos
+## 🎯 Próximos passos
 
-- [ ] Desenvolver projetos cada vez mais completos.
-- [ ] Aprimorar minhas habilidades em programação.
-- [ ] Aprender novas linguagens e tecnologias.
-- [ ] Criar soluções que possam ajudar outras pessoas.
-- [ ] Construir meu portfólio de desenvolvedor.
+- [ ] Construir projetos full-stack completos do zero ao deploy.
+- [ ] Aprofundar conhecimentos em arquitetura de software e boas práticas.
+- [ ] Explorar novos frameworks e ferramentas do ecossistema web.
+- [ ] Desenvolver soluções úteis que gerem impacto real para outras pessoas.
+- [ ] Consolidar um portfólio sólido para oportunidades na área de desenvolvimento.
 
 ---
 
 <div align="center">
 
-### 🌎 Obrigado por visitar meu perfil!
+### 🌎 Obrigado pela visita!
 
-**Cada projeto é mais um passo na minha evolução.**
+**Cada linha de código é um passo a mais na jornada.**
 
-⭐ Se encontrar algo interessante por aqui, fique à vontade para explorar!
+⭐ Fique à vontade para explorar os repositórios e acompanhar minha evolução!
 
 </div>
