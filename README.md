@@ -31,7 +31,7 @@ Este espaço funciona como o meu laboratório: aqui documento meus estudos, proj
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,php,python,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=c,java,python,r,php,js,html,css,django,mysql,postgres,arduino,git,github,vscode,eclipse&perline=8" />
 
 </div>
 
