@@ -6,6 +6,8 @@
 
 <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="100%" alt="Banner animado">
 
+# 👾Paulo Henrique Ferreira👾
+
 **Estudante de Engenharia de Computação | Desenvolvedor em formação**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=0paulohf&color=0e75b6&style=for-the-badge&label=VISUALIZAÇÕES)
