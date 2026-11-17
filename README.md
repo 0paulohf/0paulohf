@@ -1,7 +1,7 @@
 
 <div align="center">
   
-# 👋 Hello, World! 🌍
+# 👋 Hello, Word! 🌍
 
 
 <img src="https://github.com/user-attachments/assets/f9ee9640-2428-4a16-bea3-320018b8ee93" width="100%" alt="Banner animado">
